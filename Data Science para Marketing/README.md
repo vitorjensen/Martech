@@ -13,7 +13,7 @@ Repositório de estudos do curso **Data Science para Marketing** (Alura), com an
 | [1](#-aula-1---conhecendo-os-dados) | Conhecendo os Dados | Primeiros contatos com o dataset, métricas básicas (CTR) |
 | [2](#-aula-2---analisando-os-dados) | Analisando os Dados | Filtros, segmentação (`query`, `groupby`) e distribuições |
 | [3](#-aula-3---entendendo-os-tipos-de-variáveis) | Entendendo os Tipos de Variáveis | Tipos de dados, variáveis numéricas e categóricas |
-| [4](#-aula-4---visualizando-os-dados) | Visualizando os Dados | Gráficos de barras, pizza e contagem categórica |
+| [4](#-aula-4---visualizando-os-dados) | Visualizando os Dados | Gráficos de barras, setor e contagem categórica |
 | [5](#-aula-5---estatística-dos-dados) | Estatística dos Dados | Medidas de tendência central, dispersão e ROI |
 
 ---
